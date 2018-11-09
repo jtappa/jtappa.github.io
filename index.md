@@ -1,6 +1,7 @@
 # Hi. I'm Jorie Tappa
 
-## & I like to do lots of things.</h2>
+## & I like to do lots of things.
+
 ## Here are projects I have contributed to:
 
 ### Puppet
@@ -90,8 +91,8 @@ Minneapolis, MN 2008
 * Worked directly with development teams to plan and coordinate documentation of new and changing features.
   * Worked with my team to migrate from a bespoke jekyll setup to industry standard DITA documentation software.
   * Responsible for building a pipeline for github docs to an s3 bucket, using Jekyll, and Jenkins Job Builder.
-* Wrote, edited, and maintained documentation across multiple products.</li>
-  * Produced content to company standards for voice, format, style and accuracy.
+* Wrote, edited, and maintained documentation across multiple products.
+* Produced content to company standards for voice, format, style and accuracy.
 
 ### Puppet, Inc.
 
