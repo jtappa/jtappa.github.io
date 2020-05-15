@@ -5,9 +5,8 @@
 ## Experience:
 
 ### Puppet, Inc., Remote - WI & Portland, OR
+*Software Engineer*  
 September 2017 - April 2020
-
-*Software Engineer*
 
 * Agile team lead and scrum master for multiple teams’ planning meetings, and retrospectives. Team health checks performed sprintly and data gathered for internal Agile Community of Practice group.
 * Technical lead for roadmap projects and Jira epics. Lead ticket grooming, and influenced processes and development plans.
@@ -17,9 +16,8 @@ September 2017 - April 2020
 * Part of a CI Triage rotation for internal packaging and testing pipelines, and community office hours in slack.
 
 ### Puppet, Inc., Remote - WI
+*Technical Writer*  
 March 2016 - August 2017
-
-*Technical Writer*
 
 * Wrote, edited, and maintained documentation across multiple products.
 * Wrote release notes, and sent release announcements to the open source community.
@@ -28,26 +26,23 @@ March 2016 - August 2017
 * Worked directly with development teams to plan and coordinate documentation of new and changing features.
 
 ### Puppet, Inc., Portland, OR
+*Associate Technical Writer*  
 January 2015 - March 2016
-
-*Associate Technical Writer*
 
 * Wrote, edited, and maintained documentation for open source products. 
 * Produced content to company standards for voice, format, style, and accuracy. 
 
 ### Capstone Publishers, Minneapolis, MN
+*Application Programmer*  
 February 2013 - January 2015
-
-*Application Programmer*
 
 * Wrote code for an online library tool used by schools and districts around the world.
 * Wrote PHP, MySQL, HTML, CSS, jQuery, data queries, stored procedures, and more.
 * Responsible for adhering to methods, structures, designs, code, and scripts compatible with existing sites. Ensured that enhancements to the site were compatible with existing methods.
 
 ### Capstone Publishers, Minneapolis, MN
+*Application Developer*  
 March 2011 - February 2013
-
-*Application Developer*
 
 * Wrote code for websites (PHP, HTML, CSS, stored procedures) and tested programs; assisted in the production of interactive books, games, and content.
 * Developed an internal production tool for temp workers and production staff to keep in sync with live data and projects. Involved database design, front end and back end coding.
