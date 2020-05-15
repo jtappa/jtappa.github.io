@@ -5,7 +5,8 @@
 ## Experience:
 
 ### Puppet, Inc., Remote - WI & Portland, OR
-September 2017 - April 2020  
+September 2017 - April 2020
+
 *Software Engineer*
 
 * Agile team lead and scrum master for multiple teams’ planning meetings, and retrospectives. Team health checks performed sprintly and data gathered for internal Agile Community of Practice group.
@@ -16,7 +17,8 @@ September 2017 - April 2020
 * Part of a CI Triage rotation for internal packaging and testing pipelines, and community office hours in slack.
 
 ### Puppet, Inc., Remote - WI
- March 2016 - August 2017  
+March 2016 - August 2017
+
 *Technical Writer*
 
 * Wrote, edited, and maintained documentation across multiple products.
@@ -26,14 +28,16 @@ September 2017 - April 2020
 * Worked directly with development teams to plan and coordinate documentation of new and changing features.
 
 ### Puppet, Inc., Portland, OR
-January 2015 - March 2016  
+January 2015 - March 2016
+
 *Associate Technical Writer*
 
 * Wrote, edited, and maintained documentation for open source products. 
 * Produced content to company standards for voice, format, style, and accuracy. 
 
 ### Capstone Publishers, Minneapolis, MN
-February 2013 - January 2015  
+February 2013 - January 2015
+
 *Application Programmer*
 
 * Wrote code for an online library tool used by schools and districts around the world.
@@ -41,7 +45,8 @@ February 2013 - January 2015
 * Responsible for adhering to methods, structures, designs, code, and scripts compatible with existing sites. Ensured that enhancements to the site were compatible with existing methods.
 
 ### Capstone Publishers, Minneapolis, MN
-March 2011 - February 2013  
+March 2011 - February 2013
+
 *Application Developer*
 
 * Wrote code for websites (PHP, HTML, CSS, stored procedures) and tested programs; assisted in the production of interactive books, games, and content.
@@ -53,14 +58,16 @@ March 2011 - February 2013
 ## Education:
 
 ### The Art Institutes International Minnesota, Minneapolis, MN
-2009 - 2010  
+2009 - 2010
+
 *Associate of Applied Science Degree in Web Design & Interactive Media*
 
 Library Media Center Attendant 2010  
 Equipment Cage & IT Assistant 2009
 
-### The Art Institutes International Minnesota
-2005 - 2008  
+### The Art Institutes International Minnesota, Minneapolis, MN
+2005 - 2008
+
 *Bachelor of Fine Arts Degree in Photography*
 
 Photo Club President 2008  
