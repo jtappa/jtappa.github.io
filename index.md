@@ -1,126 +1,77 @@
-# Hi. I'm Jorie Tappa
+# Hello there, I'm Jorie Tappa
 
-## & I like to do lots of things.
+## and this is my resume.
 
-## Here are projects I have contributed to:
-
-### Puppet
-
-**I help** develop solutions to bugs and feature requests for this product, alongside a team of platform developers.
-
-### Puppet Documentation
-
-**I helped** write, maintain, and edit the documentation for this project alongside a team of technical writers.
-
-### myON Reader
-
-myON Reader is an online Library used by schools and students around the world.
-
-**I helped** write PHP in an existing framework, write MySQL, stored procedures, custom data scripts, and more.
-
-### Raintree Online
-
-Raintree is an online book subscription service used by schools and students in the UK.
-
-**I helped** with PHP, MySQL, and JavaScript.
-
-### PebbleGo
-
-PebbleGo is an online collection of themed databases that feature concise articles and games for children around the world.
-
-**I helped** write a PHP script to convert MS Word Documents into XML files, Data Asset Management, video conversion, and with project workflow.
-
-### AcornGrow
-
-AcornGrow is an online database of consise articles and games that help children learn in the UK.
-
-**I helped** with Data Asset Management, video conversion, and project workflow.
-
-
-## Here is a long list of things I know about:
-
-* PHP
-* HTML
-* CSS & SASS
-* MySQL
-* Git
-* Technical Writing
-* Copyediting
-* Markdown
-* *nix Command Line
-* vim
-* JavaScript
-* WordPress
-* Magento
-* XML
-* User Interface Design
-* Interaction Design
-* Photography
-* Studio Lighting
-* Adobe AfterEffects
-* Final Cut Pro
-* Adobe Photoshop, Bridge, Illustrator, & Media Encoder
-* ...and more
-    
-
-## I learned about some of these things at school:
-
-### The Art Institutes International Minnesota
-
-
-*Associate of Applied Science Degree in Web Design & Interactive Media*
-    
-Minneapolis, MN 2010
-
-### The Art Institutes International Minnesota
-
-*Bachelor of Fine Arts Degree in Photography*
-
-Minneapolis, MN 2008
-
-## I continue to learn on the job:
+## Experience
 
 ### Puppet, Inc.
 
-*Software Engineer* 09/2017 - Present
+*Software Engineer* September 2017 - April 2020
+
+* Agile team lead and scrum master for multiple teams’ planning meetings, and retrospectives. Team health checks performed sprintly and data gathered for internal Agile Community of Practice group.
+* Technical lead for roadmap projects and Jira epics. Lead ticket grooming, and influenced processes and development plans.
+* Wrote and tested JavaScript, Clojure, and Ruby for code fixes, improvements and new features to Puppet and Puppet Enterprise Console UI. Implemented unit and acceptance testing across multiple platforms.
+* Demonstrated team projects and Agile Stories at internal company demos, additional experience speaking at external conferences such as CfgMgmtCamp 2019.
+* Reviewed employee and community GitHub Pull Requests, and triaged new tickets and issues in Jira. Enforced code quality with code reviews and test driven development practices.
+* Part of a CI Triage rotation for internal packaging and testing pipelines, and community office hours in slack.
 
 ### Puppet, Inc.
 
-*Technical Writer* 03/2016 - 08/2017
+*Technical Writer* March 2016 - August 2017
 
+* Wrote, edited, and maintained documentation across multiple products.
+* Wrote release notes, and sent release announcements to the open source community.
+* Worked with my team to migrate from a bespoke jekyll setup to industry standard DITA documentation software.
+* Responsible for building a pipeline for GitHub docs to an Amazon s3 bucket, using Ruby, Jekyll, and Jenkins Job Builder.
 * Worked directly with development teams to plan and coordinate documentation of new and changing features.
-  * Worked with my team to migrate from a bespoke jekyll setup to industry standard DITA documentation software.
-  * Responsible for building a pipeline for github docs to an s3 bucket, using Jekyll, and Jenkins Job Builder.
-* Wrote, edited, and maintained documentation across multiple products.
-* Produced content to company standards for voice, format, style and accuracy.
 
 ### Puppet, Inc.
 
-*Associate Technical Writer* 01/2015 - 3/2016
+*Associate Technical Writer* January 2015 - March 2016
 
-* Wrote, edited, and maintained documentation across multiple products.
-* Produced content to company standards for voice, format, style and accuracy.
-
-### Capstone
-
-*Application Programmer* 02/2013 - 01/2015
-
-* Wrote code (PHP, MySQL, HTML, CSS, queries, stored procedures, etc.) for an online library tool used by Schools and Districts around the world.
-* Responsible for adhering to methods, structures, designs, code, and scripts that were compatible with existing sites. Insured that enhancements to the site were compatible with existing methods.
+* Wrote, edited, and maintained documentation for open source products. 
+* Produced content to company standards for voice, format, style, and accuracy. 
 
 ### Capstone
 
-*Application Developer* 03/2011 - 02/2013
+*Application Programmer* February 2013 - January 2015
 
-* Wrote code for websites (PHP, HTML, CSS, queries, stored procedures, etc) and tested programs; assisted in the production of interactive books, games, and content.
-* Developed an internal production tool for temp workers and production staff to keep in sync with live data and projects. Involved database design, front end & back end coding.
-* Using existing in house framework, wrote custom scripts and reports to output data for marketing and customers to use.
+* Wrote code for an online library tool used by schools and districts around the world.
+* Wrote PHP, MySQL, HTML, CSS, jQuery, data queries, stored procedures, and more.
+* Responsible for adhering to methods, structures, designs, code, and scripts compatible with existing sites. Ensured that enhancements to the site were compatible with existing methods.
+
+### Capstone
+
+*Application Developer* March 2011 - February 2013
+
+* Wrote code for websites (PHP, HTML, CSS, stored procedures) and tested programs; assisted in the production of interactive books, games, and content.
+* Developed an internal production tool for temp workers and production staff to keep in sync with live data and projects. Involved database design, front end and back end coding.
+* Using existing in-house PHP framework, wrote custom scripts and reports to output data for marketing and customers to use.
 * Managed assets for interactive PK-2nd grade websites, converted video, images, and audio.
 * Wrote scripts to create and parse XML data for articles.
 
+## Education
+
+### The Art Institutes International Minnesota, Minneapolis, MN
+2009 - 2010
+*Associate of Applied Science Degree in Web Design & Interactive Media*
+
+Library Media Center Attendant 2010  
+Equipment Cage & IT Assistant 2009
+
+### The Art Institutes International Minnesota
+2005 - 2008
+*Bachelor of Fine Arts Degree in Photography*
+
+Photo Club President 2008  
+Lead Tutor of Academic Achievement Center 2008  
+Head Student Tech for Photography department 2007-2008  
+Teachers Assistant for classes 2006-2008  
+
 ## If you would like to know more about me:
 
-### [View my LinkedIn](http://www.linkedin.com/in/jorietappa)
+### [Learn about my projects](http://jorietappa.com/projects.html)
+### [View my LinkedIn](https://www.linkedin.com/in/jorietappa)
 ### [Follow me on twitter](https://twitter.com/jorietappa)
 ### [Check out my github contributions](https://github.com/jtappa)
 
