@@ -33,31 +33,3 @@ PebbleGo is an online collection of themed databases that feature concise articl
 AcornGrow is an online database of consise articles and games that help children learn in the UK.
 
 **I helped** with Data Asset Management, video conversion, and project workflow.
-
-
-## & I like to do lots of things.
-
-## Here is a long list of things I know about:
-
-* PHP
-* HTML
-* CSS & SASS
-* MySQL
-* Git
-* Technical Writing
-* Copyediting
-* Markdown
-* *nix Command Line
-* vim
-* JavaScript
-* WordPress
-* Magento
-* XML
-* User Interface Design
-* Interaction Design
-* Photography
-* Studio Lighting
-* Adobe AfterEffects
-* Final Cut Pro
-* Adobe Photoshop, Bridge, Illustrator, & Media Encoder
-* ...and more
