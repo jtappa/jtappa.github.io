@@ -56,6 +56,7 @@ AcornGrow is an online database of consise articles and games that help children
 
 I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating digital illustrations that I license for use on coloring apps for iPad:
 
+![Digital Illustration for Coloring Book App](images/galacticcats.PNG "Digital Illustration for Coloring Book App")![Digital Illustration for Coloring Book App](images/fruitillustration.PNG "Digital Illustration for Coloring Book App")![Digital Illustration for Coloring Book App](images/lovegrows.PNG "Digital Illustration for Coloring Book App")
 
 ## Volunteering & Other work
 
