@@ -4,7 +4,7 @@
 
 ![Screenshot of Puppet Enterprise](images/PuppetEnterprise.jpg "Screenshot of Puppet Enterprise")
 
-**I helped** as a software engineer on a Full Stack team of developers. We used Ember.js, Typescript, and Clojure. My team's focus was improving the time to value for our new customers, making navigation more intuitive, and maintaining and implementing accessibility standards to all parts of the application. I also had an opportunity to be Scrum Master for my team, as well as demo some of our recent improvements to the console to the company internally and on our community slack.
+**I helped** as a software engineer on a Full Stack team of developers. We used Ember.js, Typescript, and Clojure. My team's focus was improving the time to value for new customers, making navigation more intuitive, and maintaining and implementing accessibility standards to all parts of the application. I also acted as Scrum Master for my team, as well as demoed some of our recent improvements to the console internally to the company as well as on the community slack to customers.
 
 ### Puppet
 
@@ -54,7 +54,7 @@ AcornGrow is an online database of consise articles and games that help children
 
 ## Personal Projects:
 
-I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating these mandala doodles that I license for use on coloring apps for iPad:
+I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating digital illustrations that I license for use on coloring apps for iPad:
 
 
 ## Volunteering & Other work
