@@ -28,7 +28,7 @@ Grave Man is a game where you are tasked with smashing zombies rising from their
 
 myON Reader is an online library used by schools and students around the world.
 
-**I helped** write PHP in an internal framework, write MySQL, stored procedures, custom data scripts, and more.
+**I helped** write PHP in an internal framework, write MySQL, stored procedures, and custom data scripts.
 
 ### Raintree Online
 
@@ -52,12 +52,6 @@ AcornGrow is an online database of consise articles and games that help children
 
 **I helped** with Data Asset Management, video conversion, and project workflow.
 
-## Personal Projects:
-
-I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating digital illustrations that I license for use on coloring apps for iPad:
-
-![Digital Illustration for Coloring Book App](images/galacticcats.PNG "Digital Illustration for Coloring Book App")![Digital Illustration for Coloring Book App](images/fruitillustration.PNG "Digital Illustration for Coloring Book App")![Digital Illustration for Coloring Book App](images/lovegrows.PNG "Digital Illustration for Coloring Book App")
-
 ## Volunteering & Other work
 
 I am available for documentary style photography and videography for events that focus on marginalized groups of people. Some events I've enjoyed capturing:
@@ -72,3 +66,13 @@ I have also participated as a volunteer in these awesome events:
 * Girl Develop It
 * ClojureBridge
 * Midwest Society for Photographic Education
+
+## Personal Projects:
+
+I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating digital illustrations that I license for use on coloring apps for iPad:
+
+![Digital Illustration for Coloring Book App](images/galacticcats.PNG "Digital Illustration for Coloring Book App")
+
+![Digital Illustration for Coloring Book App](images/fruitillustration.PNG "Digital Illustration for Coloring Book App")
+
+![Digital Illustration for Coloring Book App](images/lovegrows.PNG "Digital Illustration for Coloring Book App")
