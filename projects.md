@@ -69,7 +69,7 @@ I have also participated as a volunteer in these awesome events:
 
 ## Personal Projects:
 
-I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating digital illustrations that I license for use on coloring apps for iPad:
+I try to practice and maintain my skills with personal projects regularly. Right now, I'm enjoying creating digital illustrations that I license for use on coloring book apps for iPad:
 
 ![Digital Illustration for Coloring Book App](images/galacticcats.PNG "Digital Illustration for Coloring Book App")
 
