@@ -12,9 +12,13 @@
 
 ### Puppet Documentation
 
+![Screenshot of Puppet Documentation](images/PuppetDocs.png "Screenshot of Puppet Documentation")
+
 **I helped** write, maintain, and edit the documentation for this project alongside a team of technical writers. I also helped build pipelines to migrate this documentation out of github markdown files for a bespoke jekyll publishing process into a more industry standard DITA solution.
 
 ### Grave Man
+
+![Animation of Grave Man gameplay](images/GraveMan.gif "Animation of Grave Man gameplay")
 
 Grave Man is a game where you are tasked with smashing zombies rising from their graves, pick up money, and try to avoid having your shovel stolen by ghosts!
 
@@ -24,7 +28,7 @@ Grave Man is a game where you are tasked with smashing zombies rising from their
 
 myON Reader is an online Library used by schools and students around the world.
 
-**I helped** write PHP in an existing framework, write MySQL, stored procedures, custom data scripts, and more.
+**I helped** write PHP in an internal framework, write MySQL, stored procedures, custom data scripts, and more.
 
 ### Raintree Online
 
