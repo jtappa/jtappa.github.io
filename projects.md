@@ -4,17 +4,17 @@
 
 ![Screenshot of Puppet Enterprise](images/PuppetEnterprise.jpg "Screenshot of Puppet Enterprise")
 
-**I helped** as a software engineer on a Full Stack team of developers. We used Ember.js, Typescript, and Clojure. My team's focus was improving the time to value for new customers, making navigation more intuitive, and maintaining and implementing accessibility standards to all parts of the application. I also acted as Scrum Master for my team, as well as demoed some of our recent improvements to the console internally to the company as well as on the community slack to customers.
+**I helped** as a software engineer on a Full Stack team of developers. We used Ember.js, Typescript, and Clojure. My team's focus was improving the time to value for new customers, making navigation more intuitive, and maintaining and implementing accessibility standards to all parts of the application. I also acted as Scrum Master for my team, as well as demoed some of our recent improvements to the console internally to the company and to customers on the community slack.
 
 ### Puppet
 
-**I helped** develop solutions to bugs and feature requests for this product in Ruby, alongside a team of platform developers. I acted as the team's Agile Team Lead, coordinated with our Project Owner and Product Managers to make sure the team had work ready for them and had help they needed from adjacent teams.
+**I helped** develop solutions to bugs and feature requests for this product in Ruby, as part of a team of platform developers. I acted as the team's Agile Team Lead, coordinated with our Project Owner and Product Managers to make sure the team had work ready for them and had help they needed from adjacent teams.
 
 ### Puppet Documentation
 
 ![Screenshot of Puppet Documentation](images/PuppetDocs.png "Screenshot of Puppet Documentation")
 
-**I helped** write, maintain, and edit the documentation for this project alongside a team of technical writers. I also helped build pipelines to migrate this documentation out of github markdown files for a bespoke jekyll publishing process into a more industry standard DITA solution.
+**I helped** write, maintain, and edit the documentation for this project as a part of a team of technical writers. I also helped build pipelines to migrate this documentation out of github markdown files for a bespoke jekyll publishing process into a more industry standard DITA solution.
 
 ### Grave Man
 
@@ -22,7 +22,7 @@
 
 Grave Man is a game where you are tasked with smashing zombies rising from their graves, picking up money, and trying to avoid having your shovel stolen by ghosts!
 
-**I helped** with this collab as one of the main artists, with game QA and testing, and I made instructional imagery for our more than 25 community collaborators!
+**I helped** with this collab as one of the main artists. I created instructional imagery for our more than 25 community collaborators and helped with game QA and testing. Our game made the front page of itch.io for the week of Halloween 2019.  
 
 ### myON Reader
 
@@ -42,7 +42,7 @@ Raintree is an online book subscription service used by schools and students in 
 
 PebbleGo is an online collection of themed databases that feature concise articles and games for children around the world.
 
-**I helped** write a PHP script to convert MS Word Documents into XML files, Data Asset Management, video conversion, and with project workflow.
+**I helped** write a PHP script to convert Microsoft Word Documents into XML files, handled Data Asset Management, created video conversion, and managed project workflow.
 
 ### AcornGrow
 
