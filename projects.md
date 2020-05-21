@@ -20,13 +20,13 @@
 
 ![Animation of Grave Man gameplay](images/GraveMan.gif "Animation of Grave Man gameplay")
 
-Grave Man is a game where you are tasked with smashing zombies rising from their graves, pick up money, and try to avoid having your shovel stolen by ghosts!
+Grave Man is a game where you are tasked with smashing zombies rising from their graves, picking up money, and trying to avoid having your shovel stolen by ghosts!
 
-**I helped** on this collab as an artist, did game QA and testing, and made instructional imagery for our more than 25 community collaborators!
+**I helped** with this collab as one of the main artists, with game QA and testing, and I made instructional imagery for our more than 25 community collaborators!
 
 ### myON Reader
 
-myON Reader is an online Library used by schools and students around the world.
+myON Reader is an online library used by schools and students around the world.
 
 **I helped** write PHP in an internal framework, write MySQL, stored procedures, custom data scripts, and more.
 
