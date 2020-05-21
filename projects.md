@@ -61,7 +61,7 @@ I try to practice and maintain my skills with personal projects regularly. Right
 
 I am available for documentary style photography and videography for events that focus on marginalized groups of people. Some events I've enjoyed capturing:
 
-* AltConf
+* AlterConf
 * Girl Develop It
 * Nike's We Code
 * Django Girls
